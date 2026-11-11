@@ -1,0 +1,8 @@
+pip install streamlit
+pip install torch
+pip install torchvision
+pip install pillow
+pip install joblib
+
+C:\Users\Anton\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install streamlit
+

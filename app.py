@@ -5,7 +5,7 @@ from torchvision import transforms, models
 from PIL import Image
 import joblib
 import os
-
+'''тест'''
 #  Настройки страницы 2026 
 st.set_page_config(page_title="AI Ветеринар", page_icon="🐾")
 
